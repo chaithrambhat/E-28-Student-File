@@ -1,4 +1,4 @@
-Science:68
-maths: 89
-Social:90
+Science:79
+maths: 90
+Social:89
 English:86

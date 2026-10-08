@@ -1,3 +1,5 @@
 Anu
 Father:Prabhakar
 Mother:Bindu
+Age:10
+Email:Anu@gmail.com
